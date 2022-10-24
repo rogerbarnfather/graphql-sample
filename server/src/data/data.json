@@ -1,0 +1,36 @@
+{
+  "books": [
+    {
+      "name": "The God Delusion",
+      "id": "1",
+      "genre": "Science",
+      "authorId": "2"
+    },
+    {
+      "name": "The Selfish Gene",
+      "id": "2",
+      "genre": "Science",
+      "authorId": "2"
+    },
+    {
+      "name": "The Ancestor's Tale",
+      "id": "3",
+      "genre": "Science",
+      "authorId": "2"
+    },
+    {
+      "name": "Fantastic Mr Fox",
+      "id": "4",
+      "genre": "Adventure",
+      "authorId": "3"
+    },
+    { "name": "The Witches", "id": "5", "genre": "Adventure", "authorId": "3" },
+    { "name": "The Shining", "id": "6", "genre": "Horror", "authorId": "1" }
+  ],
+
+  "authors": [
+    { "name": "Sephen King", "id": "1", "age": 66 },
+    { "name": "Richard Dawkins", "id": "2", "age": 77 },
+    { "name": "Roald Dahl", "id": "3", "age": 109 }
+  ]
+}
